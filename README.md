@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[Top 13 Software Engineering Trends to Watch for in 2024](./https://clickup.com/blog/software-engineering-trends/)
+
